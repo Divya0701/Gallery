@@ -1,0 +1,15 @@
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 30px;
+}
+.innerDiv {
+  display: flex;
+  flex-wrap: wrap;
+  width: 50vw;
+}
+.bgImage {
+  width: 50vw;
+}
